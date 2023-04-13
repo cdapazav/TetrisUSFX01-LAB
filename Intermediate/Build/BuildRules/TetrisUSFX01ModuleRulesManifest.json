@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Repositorios\\UE\\TetrisUSFX01-master\\Source\\TetrisUSFX01\\TetrisUSFX01.Build.cs",
+		"D:\\Repositorios\\UE\\TetrisUSFX01-master\\Source\\TetrisUSFX01.Target.cs",
+		"D:\\Repositorios\\UE\\TetrisUSFX01-master\\Source\\TetrisUSFX01Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

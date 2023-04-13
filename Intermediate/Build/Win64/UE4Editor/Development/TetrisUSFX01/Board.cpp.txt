@@ -1,0 +1,7 @@
+D:\Repositorios\UE\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\Repositorios\UE\TetrisUSFX01-master\Source\TetrisUSFX01\Board.h
+D:\Repositorios\UE\TetrisUSFX01-master\Source\TetrisUSFX01\Piece.h
+D:\Repositorios\UE\TetrisUSFX01-master\Source\TetrisUSFX01\Block.h
+D:\Repositorios\UE\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+D:\Repositorios\UE\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
+D:\Repositorios\UE\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Board.generated.h
